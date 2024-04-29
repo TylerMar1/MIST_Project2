@@ -108,27 +108,24 @@ From a public safety standpoint, this analysis enables policymakers to develop e
 This approach empowers law enforcement agencies and emergency responders to better prepare for and respond to incidents, potentially improving outcomes through faster and more appropriate medical intervention. Ultimately, by understanding the relationship between vehicle damage, occupant injuries, and vehicle movement during crashes, this research can drive comprehensive strategies to enhance road safety and protect lives
 
 ### Data Set Manipulations:
- Our second question does not involve any data manipulation. We felt that data manipulation would not be necessary because we did not have a time element. If we were to do data manipulation we would have used a forecast system. This would mean that future data would be predicted using a time element, but since we did not have a time element this was not necessary for this question in this project.
+Our second question does not involve any data manipulation. We felt that data manipulation would not be necessary because we did not have a time element. If we were to do data manipulation we would have used a forecast system. This would mean that future data would be predicted using a time element, but since we did not have a time element this was not necessary for this question in this project.
 
 ### Graphs and Analysis:
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/0a963636-9334-4e95-8b1b-412b7a8ff1f7)
 
-The graph above is a heat map, we chose to display the data in a heat map because they offer a visually intuitive way to understand complex data and facilitate pattern recognition.
+The graph above is a heat map, we chose to display the data in a heat map because it offers a visually intuitive way to understand complex data and facilitate pattern recognition. 
 
-This chart shows us the numeric values of the amount of accidents associated between the type of movement the vehicle was in, along with the extent to which the vehicle was damaged. By analyzing this data, we can identify common scenarios that are more prone to result in accidents and assess the severity of those accidents based on the degree of vehicle damage incurred.
+This chart shows us the numeric values of the number of accidents associated with the type of movement the vehicle was in and the extent to which the vehicle was damaged. By analyzing this data, we can identify common scenarios that are more prone to result in accidents and assess the severity of those accidents based on the degree of vehicle damage incurred.
 
-As seen in the visualization above, there are some common trends we can see. The trend to have the biggest disparity seems to be turning left vs turning right. In every category of damage extent, there seems to be at least triple the accidents occuring when drivers were turning left then turning right. This could potentially mean our public service workers need to implement more strict and obvious for left turn lanes as well as stoplights.
+As seen in the visualization above, there are some common trends we can see. The trend to have the biggest disparity seems to be turning left vs turning right. In every category of damage extent, there seems to be at least triple the accidents that occur when drivers are turning left than when turning right. This could potentially mean our public service workers need to implement more strict or obvious laws for left turn lanes. Majority of accidents show that vehicled experience disabling damage when moving at a constant speed.
 
-In summary, the numeric values presented in this chart offer valuable insights into the relationship between vehicle movement, damage extent, and accident occurrence, allowing us physical evidence needed to proactively address road safety challenges and strive towards the ultimate goal of reducing the incidence and severity of road traffic accidents.
+In summary, the numeric values presented in this chart offer valuable insights into the relationship between vehicle movement, damage extent, and accident occurrence, showing us the physical evidence needed to proactively address road safety challenges and strive toward the ultimate goal of reducing the incidence and severity of road traffic accidents.
 
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/c05d4179-9dec-4be3-b569-8a21dbc1ccfe)
 
 This bar graph represents the relationship between the extent of vehicle damage and the severity of injuries sustained in each accident. The rows are segmented into two columns, injury severity and vehicle damage. The most obvious observation is that the majority of accidents resulted in no apparent injuries. Of the accidents resulting in no apparent injury, most of the accidents resulted in disabling vehicle damage, followed closely by functional damage and superficial damage.
 
-Analyzing the relationship between vehicle damage extent and severity of injuries can be helpful in many different ways when it comes to the principle of breaking down the casualties related with car crashes. By understanding how the severity of vehicle damage correlates with the severity of injuries sustained by passengers, politicians, researchers, and safety officers can develop targeted problem solving and policies to lessen the risks associated with road traffic accidents.
-
-In conclusion, analyzing the relationship between vehicle damage extent and injury severity is a multi-step problem  with a lot of broad and specific complications for road safety, vehicle design, emergency response, healthcare, and accident investigation. By reflecting on the power of data and insights from this analysis, analysts can work together to create a safer and more efficient transportation system for everyone.
-
+Analyzing the relationship between vehicle damage extent and severity of injuries can be helpful in many different ways when it comes to the principle of breaking down the casualties related with car crashes. By understanding how the severity of vehicle damage correlates with the severity of injuries sustained by passengers, politicians, researchers, and safety officers can develop targeted problem-solving and policies to lessen the risks associated with road traffic accidents.
 
 ![image](https://github.com/isabellekiser/Group1Project2/assets/150094078/26000876-d2b6-4d2e-97d6-4d1f8d11a6f5)
 
